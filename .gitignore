@@ -23,3 +23,5 @@
 hs_err_pid*
 replay_pid*
 /ConnectingApi/nbproject/private/
+/ConnectingAPI/nbproject/private/
+/ConnectingAPI/build/
